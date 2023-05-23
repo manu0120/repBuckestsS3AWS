@@ -1,0 +1,52 @@
+<div class="container">
+    <div class="row">
+        <div class="col-10 mx-auto">
+            <h3>INFORMACION DE BUCKETS: </h3>
+            <br>
+            <div class="row justify-content-end">
+                <div class="col-auto mb-4">
+                    <button class="btn btn-outline-primary"
+                        (click)="abrirPopup()">
+                        <mat-icon aria-hidden="false" fontIcon="folder_open"></mat-icon>
+                        Nuevo bucket
+                    </button>
+                </div>
+            </div>
+            
+            
+            <table class="table table-success table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>NOMBRE</th>
+                        <th>FECHA CREACIÓN</th>
+                        <th>NÚMERO FICHEROS</th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let bucket of buckets">
+                        <td>
+                            <mat-icon aria-hidden="false" fontIcon="folder"></mat-icon>
+                            {{bucket.nombreBucket}}
+                        </td>
+                        <td>{{bucket.fechaBucketCreacion}}</td>
+                        <td>{{bucket.archivos}}</td>
+                        <td>
+                            <button mat-button color="accent" [routerLink]="['/listadoficheros/'+bucket.nombreBucket]">DETALLES</button>
+                        </td>
+                        <td><button class="btn btn-outline-primary">Editar</button></td>
+                        <td><button class="btn btn-outline-primary"
+                                (click)="eliminarBucket(bucket.nombreBucket)">Eliminar</button></td>
+                        
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+

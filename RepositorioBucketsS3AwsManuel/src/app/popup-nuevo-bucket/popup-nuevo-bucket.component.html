@@ -1,0 +1,13 @@
+<h2 mat-dialog-title>Nuevo Bucket</h2>
+<div mat-dialog-content>
+    <p>Introduce el nombre que quieres que tenga el nuevo bucket:</p>
+  <mat-form-field class="custom-input">
+    <mat-label>Nombre</mat-label>
+    <input matInput [(ngModel)]="nombreBucket" >
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button color="accent" (click)="guardar()" class="ms-4 mb-3">GUARDAR</button>
+  <button mat-button color="accent" (click)="cerrar()" class="ms-3 mb-3">CERRAR</button>
+</div>
+

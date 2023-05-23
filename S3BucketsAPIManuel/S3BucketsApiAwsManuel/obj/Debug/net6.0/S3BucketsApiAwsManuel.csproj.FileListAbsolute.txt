@@ -1,0 +1,65 @@
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\appsettings.Development.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\appsettings.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.exe
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.deps.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.runtimeconfig.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.pdb
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.csproj.AssemblyReference.cache
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.AssemblyInfoInputs.cache
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.AssemblyInfo.cs
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.csproj.CoreCompileInputs.cache
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.MvcApplicationPartsAssemblyInfo.cs
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.MvcApplicationPartsAssemblyInfo.cache
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets\msbuild.S3BucketsApiAwsManuel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets\msbuild.build.S3BucketsApiAwsManuel.props
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S3BucketsApiAwsManuel.props
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S3BucketsApiAwsManuel.props
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\scopedcss\bundle\S3BucketsApiAwsManuel.styles.css
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.csproj.CopyComplete
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\refint\S3BucketsApiAwsManuel.dll
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.pdb
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.genruntimeconfig.cache
+C:\Alumnos tarde\12. AWS\Practicas\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\ref\S3BucketsApiAwsManuel.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\appsettings.Development.json
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\appsettings.json
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.exe
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.deps.json
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.runtimeconfig.json
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\S3BucketsApiAwsManuel.pdb
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.csproj.AssemblyReference.cache
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.GeneratedMSBuildEditorConfig.editorconfig
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.AssemblyInfoInputs.cache
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.AssemblyInfo.cs
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.csproj.CoreCompileInputs.cache
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.MvcApplicationPartsAssemblyInfo.cs
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.MvcApplicationPartsAssemblyInfo.cache
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets.build.json
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\staticwebassets.development.json
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\scopedcss\bundle\S3BucketsApiAwsManuel.styles.css
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.csproj.CopyComplete
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\refint\S3BucketsApiAwsManuel.dll
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.pdb
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\S3BucketsApiAwsManuel.genruntimeconfig.cache
+C:\tajamar 22-23\12. AWS\Practicas\Repositorio buckets AWS\Repositorio buckets AWS\S3BucketsAPIManuel\S3BucketsApiAwsManuel\obj\Debug\net6.0\ref\S3BucketsApiAwsManuel.dll
