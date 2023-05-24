@@ -58,6 +58,7 @@ namespace S3.Demo.API.Controllers
                 {
                     Name = s.Key.ToString(),
                     PresignedUrl = _s3Client.GetPreSignedURL(urlRequest),
+                    Size = s.Size
                 };
             });
 

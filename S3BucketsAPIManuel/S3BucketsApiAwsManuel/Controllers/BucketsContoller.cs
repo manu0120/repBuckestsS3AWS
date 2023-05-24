@@ -31,7 +31,7 @@ namespace S3.Demo.API.Controllers
         [HttpGet("get-all")]
         public async Task<IActionResult> GetAllBucketAsync()
         {
-            var data = await _s3Client.ListBucketsAsync();
+            //var data = await _s3Client.ListBucketsAsync();
             //var buckets = data.Buckets.Select(b => { return b.BucketName; });
 
             var listadoBucketAmazon = await _s3Client.ListBucketsAsync();

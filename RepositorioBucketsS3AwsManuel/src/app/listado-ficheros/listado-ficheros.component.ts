@@ -1,18 +1,26 @@
-import { Component } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
+import { ListadoFicherosService } from './listado-ficheros.service';
+import { IFile } from './ifile';
+import { MatDialog } from '@angular/material/dialog';
+import { PopupMostrarUrlComponent } from '../popup-mostrar-url/popup-mostrar-url.component';
 
 @Component({
   selector: 'app-listado-ficheros',
   templateUrl: './listado-ficheros.component.html',
   styleUrls: ['./listado-ficheros.component.css']
 })
-export class ListadoFicherosComponent {
+export class ListadoFicherosComponent implements OnInit{
   /**
    *
    */
-  constructor(private activatedRoute:ActivatedRoute) {}
+  constructor(private activatedRoute:ActivatedRoute, 
+    private listadoFicherosService: ListadoFicherosService, 
+    private router: Router, 
+    public dialog: MatDialog) {}
 
-public nombreBucket:string=""; 
+  public files: IFile[]=[]; 
+  public nombreBucket:string="";  
 
   ngOnInit(){
     this.activatedRoute.params.subscribe(params => {
@@ -20,14 +28,22 @@ public nombreBucket:string="";
       if (params["nombre"] == undefined) { 
         return;
       }
-  
-      //se asigna el valor del id del nacimiento al campo nacimientoId
       this.nombreBucket= params["nombre"]; 
-      console.log("Nombre: "+this.nombreBucket); 
-      
-      //se llama al servicio para obtener el artículo.Luego de obtener el artículo, se llama al método cargarForm() 
-      //para llenar los valores del formulario. Si hay un error en el proceso, redirige a la página "/article"      
 
+      this.cargarFicheros(); 
     }); 
+  }
+  cargarFicheros() {
+    this.listadoFicherosService.getFiles(this.nombreBucket).subscribe(files =>{
+      this.files=files; 
+      this.router.navigate(['/listadoficheros/'+this.nombreBucket])
+    })
+  }
+
+  abrirPopup(urlParam: string){
+    const dialogRef = this.dialog.open(PopupMostrarUrlComponent, {
+      width: '600px', // Ajusta el ancho según tus necesidades
+      data: {url: urlParam}
+    });
   }
 }

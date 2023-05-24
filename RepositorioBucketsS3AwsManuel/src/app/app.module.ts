@@ -17,9 +17,12 @@ import { MatInputModule } from '@angular/material/input';
 import { MatDialogModule } from '@angular/material/dialog';
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
+import {MatTooltipModule} from '@angular/material/tooltip';
 
 import { FormsModule } from '@angular/forms';
 import { ListadoFicherosComponent } from './listado-ficheros/listado-ficheros.component';
+import { ListadoFicherosService } from './listado-ficheros/listado-ficheros.service';
+import { PopupMostrarUrlComponent } from './popup-mostrar-url/popup-mostrar-url.component';
 
 
 
@@ -30,7 +33,8 @@ import { ListadoFicherosComponent } from './listado-ficheros/listado-ficheros.co
     HomeComponent,
     NavMenuComponent,
     PopupNuevoBucketComponent,
-    ListadoFicherosComponent
+    ListadoFicherosComponent,
+    PopupMostrarUrlComponent
   ],
   imports: [
     BrowserModule,
@@ -43,9 +47,10 @@ import { ListadoFicherosComponent } from './listado-ficheros/listado-ficheros.co
     MatDialogModule, 
     MatIconModule,
     MatButtonModule, 
-    FormsModule
+    FormsModule, 
+    MatTooltipModule
   ],
-  providers: [ListadoService],
+  providers: [ListadoService, ListadoFicherosService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -4,5 +4,6 @@
     {
         public string? Name { get; set; }
         public string? PresignedUrl { get; set; }
+        public double? Size { get; set; }
     }
 }

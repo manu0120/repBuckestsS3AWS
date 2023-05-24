@@ -1,2 +1,48 @@
-<p>listado-ficheros works!</p>
-<input [value]="nombreBucket" type="text">
+<div class="container">
+    <div class="row">
+      <div class="col-10 mx-auto">
+        <h3>Ficheros que se encuentran en {{nombreBucket}}</h3>
+        <table class="table table-success table-striped table-hover">
+          <thead>
+            <tr>
+              <th>NOMBRE</th>
+              <th>TIPO</th>
+              <th>TAMAÑO</th>
+              <th>URL</th>
+              <th></th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let file of files">
+                <td>
+                    <mat-icon aria-hidden="false" fontIcon="file_copy"></mat-icon>
+                    {{file.name}}
+                </td>
+                <td>Tipo de fichero</td>
+                <td>{{file.size}}</td>
+                <td>
+                    <button mat-button (click)="abrirPopup(file.presignedUrl)">Mostrar URL</button>
+                    <!-- {{file.presignedUrl}} -->
+                </td>
+                <td>
+                <button
+                    mat-button
+                    color="accent">
+                    DETALLES
+                </button>
+                </td>
+                <td>
+                <button
+                    class="btn btn-outline-primary">
+                    Eliminar
+                </button>
+                </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  

@@ -1,0 +1,10 @@
+<h2 mat-dialog-title>Mostrando URL</h2>
+<div mat-dialog-content>
+    <mat-icon aria-hidden="false" fontIcon="receipt"
+        matTooltip="Pulsa para copiar la URL"
+        (click)="copyToClipboard(data.url)"></mat-icon>
+    {{data.url}}
+</div>
+<div mat-dialog-actions>
+  <button mat-button mat-dialog-close>Close</button>
+</div>
