@@ -5,6 +5,8 @@ import { IFile } from './ifile';
 import { MatDialog } from '@angular/material/dialog';
 import { PopupMostrarUrlComponent } from '../popup-mostrar-url/popup-mostrar-url.component';
 
+declare let window: any;
+
 @Component({
   selector: 'app-listado-ficheros',
   templateUrl: './listado-ficheros.component.html',
@@ -45,5 +47,25 @@ export class ListadoFicherosComponent implements OnInit{
       width: '600px', // Ajusta el ancho según tus necesidades
       data: {url: urlParam}
     });
+  }
+
+  eliminarFichero(nombreBucket: string, nombreFichero: string){
+    window.Swal.fire({
+      title: '¿Seguro que quieres eliminar el fichero?',
+      icon: 'question', 
+      showDenyButton: true,
+      confirmButtonText: 'SI',
+      denyButtonText: `NO`,
+    }).then((result: any) => {
+      /* Read more about isConfirmed, isDenied below */
+      if (result.isConfirmed) {
+        this.listadoFicherosService.deleteFile(nombreBucket, nombreFichero)
+          .subscribe(()=> this.cargarFicheros(), 
+            error => console.error()); 
+        window.Swal.fire('Eliminado!', '', 'success'); 
+      } else if (result.isDenied) {
+        window.Swal.fire('No se ha efectuado la eliminación', '', 'info')
+      }
+    })
   }
 }

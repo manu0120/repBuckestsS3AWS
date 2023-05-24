@@ -21,7 +21,7 @@ export class ListadoFicherosService {
   deleteFile(nombreBucket: string, key: string): Observable<IFile>{
     this.apiURL="https://localhost:7144/api/files/delete"; 
     
-    return this.http.delete<IFile>(this.apiURL+"?bucketName="+nombreBucket+"?key="+key); 
+    return this.http.delete<IFile>(this.apiURL+"?bucketName="+nombreBucket+"&key="+key); 
 
   }
 
